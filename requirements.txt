@@ -1,0 +1,16 @@
+# Requirements for RAG_iphone
+# Note: package names and versions may vary depending on your environment.
+# Adjust or pin versions as needed.
+
+langchain
+langchain-community
+langchain-ollama
+psycopg2-binary
+pgvector
+sentence-transformers
+transformers
+huggingface-hub
+torch
+accelerate
+sqlalchemy
+python-dotenv
